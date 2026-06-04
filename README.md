@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🌷 Hi, I'm Anvesha Singh
 
-<!--
-**anvesha22234/anvesha22234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+✨ Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+- 💜 Exploring AI/ML and Cyber Security
+- 🌱 Currently learning Python, Git & GitHub
+- 💻 Building projects and improving my coding skills
+- 🚀 Beginning my Open Source journey
+
+## 🛠️ Skills & Tools
+
+- Python
+- Git & GitHub
+- HTML & CSS
+- Pandas
+- VS Code
+- Jupyter Notebook
+
+## 🌷 Current Goals
+
+- Contribute to GSSoC
+- Build meaningful projects
+- Learn Web Development
+- Improve problem-solving skills
+
+## ✨ Fun Fact
+
+I love learning new things and turning ideas into projects!
+
+Thanks for visiting my profile 🌸
